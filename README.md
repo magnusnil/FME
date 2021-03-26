@@ -12,4 +12,7 @@ A collection of workspaces for FME
 
 ## AR-geodata
 Creates an AR model for the FME AR app.
+
+![AR model](https://github.com/magnusnil/FME/blob/main/AR-geodata_result.jpg)
+
 <br/>
