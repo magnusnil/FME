@@ -18,6 +18,6 @@ Creates an AR model for the FME AR app.
 
 <br/>
 
-<br/><br/>
+<br/>
 ## Geocode addresses
 Geocode file with addresses
