@@ -3,7 +3,7 @@
 ## Table of contents
 * [General info](#general-info)
 * [AR-geodata](#AR-geodata)
-* [Geocode addresses](#Geocode addresses)
+* [Geocode addresses](#Geocode-addresses)
 
 <br/>
 
