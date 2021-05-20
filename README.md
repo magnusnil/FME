@@ -21,6 +21,8 @@ Creates an AR model for the FME AR app.
 
 ## Calculate population for health care clinics
 Calculate population within 5 km (as the crow flies) from each health care clinic. Created with FME 2021.0.
+
+![Population](https://github.com/magnusnil/FME/blob/main/Calculate_population_for_health_care_clinics.JPG)
 <br/><br/>
 
 ## Geocode addresses
