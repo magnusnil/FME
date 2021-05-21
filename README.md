@@ -5,6 +5,7 @@
 * [AR-geodata](#AR-geodata)
 * [Calculate population for health care clinics](#Calculate-population-for-health-care-clinics)
 * [Geocode addresses](#Geocode-addresses)
+* [Get fonts from GeoServer addresses](#Get-fonts-from-GeoServer)
 * [Read API for TD](#Read-API-for-TD)
 
 <br/>
@@ -27,6 +28,10 @@ Calculate population within 5 km (as the crow flies) from each health care clini
 
 ## Geocode addresses
 Geocode file with addresses
+<br/><br/>
+
+## Get fonts from GeoServer
+Retrieves a list of fonts availabe in a GeoServer installation. The output is a CSV file. Created with FME 2021.0.
 <br/><br/>
 
 ## Read API for TD
