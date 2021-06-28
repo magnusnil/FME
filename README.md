@@ -30,7 +30,7 @@ Calculate population within 5 km (as the crow flies) from each health care clini
 ## Create arcs from coordinates
 Create 3D arcs from list of coordinates. Created with FME 2021.0.
 
-![Population](https://github.com/magnusnil/FME/blob/main/Create%arcs%from%coordinates.JPG)
+![Arcs](https://github.com/magnusnil/FME/blob/main/Create%20arcs%20from%20coordinates.jpg)
 <br/><br/>
 
 
