@@ -7,6 +7,7 @@
 * [Create arcs from coordinates](#Create-arcs-from-coordinates)
 * [Geocode addresses](#Geocode-addresses)
 * [Get fonts from GeoServer addresses](#Get-fonts-from-GeoServer)
+* [LEGO map](#LEGO-map)
 * [Read API for TD](#Read-API-for-TD)
 
 <br/>
@@ -41,6 +42,11 @@ Geocode file with addresses
 ## Get fonts from GeoServer
 Retrieves a list of fonts availabe in a GeoServer installation. The output is a CSV file. Created with FME 2021.0.
 <br/><br/>
+
+## LEGO map
+Creates LEGO pieces from a population grid
+<br/><br/>
+
 
 ## Read API for TD
 Reads data from the API for the Accessibility Database (TD), https://www.t-d.se/en/.
