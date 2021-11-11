@@ -45,6 +45,8 @@ Retrieves a list of fonts availabe in a GeoServer installation. The output is a 
 
 ## LEGO map
 Creates LEGO pieces from a population grid
+
+![LEGO-map](https://github.com/magnusnil/FME/blob/main/LEGO-map.png)
 <br/><br/>
 
 
